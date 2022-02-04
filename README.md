@@ -8,4 +8,4 @@ Biochemistry of Cancer focuses on cancer research, including induction, chemical
 Here is a [Link](https://www.sciencedirect.com/book/9781483231402/biochemistry-of-cancer)
 
 ### Food for thought
-How can we curb/treat cancer?
+[How can we curb/treat cancer?](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/cancer-prevention/art-20044816)
