@@ -7,5 +7,5 @@ The Biochemistry of Tumors
 
 Here is a [Link](https://www.sciencedirect.com/book/9781483231402/biochemistry-of-cancer)
 
-### Food of thought
+### Food for thought
 How can we curb/treat cancer?
